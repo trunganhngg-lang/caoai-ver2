@@ -1,0 +1,7 @@
+{
+  "name": "CAO AI",
+  "description": "Trợ lý dinh dưỡng y khoa giúp bé đạt chiều cao mơ ước theo chuẩn WHO",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
